@@ -44,8 +44,7 @@ Esse estudo mostra que as duas áreas estão fortemente conectadas ao futuro dig
 
 ---
 
-## 📂 Arquivos incluídos
-- Relatórios analisados (`.docx` e `.odt`)  
+## 📂 Arquivos incluídos  
 - Tabela comparativa de funções, locais e salários  
 - Gráfico de salários médios por função  
-- 📑 [PDF consolidado com a análise](analise_vagas.pdf)  
+ 
